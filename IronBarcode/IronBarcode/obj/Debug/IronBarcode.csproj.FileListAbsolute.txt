@@ -1,0 +1,11 @@
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\bin\Debug\IronBarcode.exe.config
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\bin\Debug\IronBarcode.exe
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\bin\Debug\IronBarcode.pdb
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\bin\Debug\IronBarCode.dll
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\bin\Debug\IronBarCode.xml
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\obj\Debug\IronBarcode.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\obj\Debug\IronBarcode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\obj\Debug\IronBarcode.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\obj\Debug\IronBarcode.csproj.CopyComplete
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\obj\Debug\IronBarcode.exe
+C:\Users\Test\source\repos\IronBarcode\IronBarcode\obj\Debug\IronBarcode.pdb
